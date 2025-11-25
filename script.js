@@ -11,6 +11,6 @@ if (contactForm) {
     contactForm.addEventListener('submit', function(event) {
         setTimeout(() => {
             contactForm.reset();
-        }, 100);
+        }, 400);
     });
 }
