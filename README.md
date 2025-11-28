@@ -3,7 +3,7 @@
 
 A personal portfolio website showcasing projects, skills, and achievements. Built with **HTML**, **CSS**, and **JavaScript**, this site is designed to be lightweight, responsive, and easy to customize.
 
-🌐 Live Demo: [remissg.github.io/Portfolio](https://remissg.github.io/Portfolio)
+🌐 Live Demo: [remissg.github.io/Portfolio](https://remissg.github.io/MyDailyWork_Task1/)
 
 ---
 
