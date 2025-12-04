@@ -123,10 +123,15 @@
     </section>
 
     <section id="contact" class="contact">
-    <h2 class="section-title">Contact Me</h2>
+    <h2 class="section-title">Contact Me</h2>   
     
     <div class="contact-container"> 
-        <form action="https://formspree.io/f/xqaoeely" method="POST" class="contact-form" id="contactForm">
+        <form action="https://api.web3forms.com/submit" method="POST" class="contact-form" id="contactForm">
+            <input type="hidden" name="access_key" value="0c778a0c-ec98-4f1d-b475-3a038a421881">
+            <input type="hidden" name="subject" value="New Contact Message from Portfolio">
+            <input type="hidden" name="from_name" value="Joydip Maiti Portfolio">
+            <input type="hidden" name="replyto" value="@">
+            <input type="checkbox" name="botcheck" class="hidden" style="display:none !important" tabindex="-1" autocomplete="off">
             
             <div class="input">
                 <input type="text" name="name" placeholder="Your Name" required>
